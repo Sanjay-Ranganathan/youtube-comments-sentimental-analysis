@@ -18,5 +18,5 @@ ChromeDriver (compatible with your Chrome browser version)
 
 ## It can only be run in chrome browser
 
-Run this command on terminal before running
+## Run this command on terminal before running
 pip install wordcloud nltk selenium bs4
